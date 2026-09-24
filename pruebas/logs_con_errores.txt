@@ -1,0 +1,11 @@
+[INFO] 2025-01-10 User logged in
+ERROR Failed to connect to database
+[WARNING] Invalid password attempt
+
+[DEBUG] 2025-01-10 Cache miss on key user_42
+[ERROR] 2025-13-40 Invalid date but format looks right
+[INFO]
+[error] 2025-01-11 lowercase severity still counts
+[WARNING] 2025-02-30 Invalid calendar date, format is fine though
+
+[ERROR] 2025-01-12 Failed to send notification

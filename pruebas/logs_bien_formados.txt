@@ -1,0 +1,10 @@
+[INFO] 2025-01-10 User logged in
+[INFO] 2025-01-10 Loaded configuration file
+[WARNING] Invalid password attempt
+[ERROR] 2025-01-10 Failed to connect to database
+[INFO] 2025-01-11 User logged out
+[WARNING] 2025-01-11 Disk usage above 80 percent
+[ERROR] 2025-01-12 Timeout while calling payment API
+[INFO] 2025-01-12 Backup completed successfully
+[warning] 2025-01-12 Retrying failed job
+[ERROR] 2025-01-13 Unhandled exception in worker thread
