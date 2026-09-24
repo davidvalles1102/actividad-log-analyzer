@@ -1,5 +1,7 @@
 # Analizador de logs — Actividad Individual
 
+**Repositorio:** https://github.com/davidvalles1102/actividad-log-analyzer
+
 Script en Python que analiza un archivo de texto con eventos de log (`[INFO]`, `[WARNING]`, `[ERROR]`, con o sin fecha) y muestra en consola un resumen: total de eventos, cantidad por tipo de severidad, líneas con y sin fecha válida, y líneas mal formateadas.
 
 ## Contenido de la carpeta
